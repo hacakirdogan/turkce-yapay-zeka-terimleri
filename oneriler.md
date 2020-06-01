@@ -7,6 +7,12 @@ Aşağıdaki kelime ya da kelime gruplarının Türkçe karşılıkları sözlü
 
 ÖNERİ: `düşman, hasım, çekişmeli`
 
+## association rule mining
+- [ ] TÜBA
+- [ ] TDK
+
+ÖNERİ: birliktelik kural çıkarımı
+
 ## autoencoder
 - [ ] TÜBA
 - [ ] TDK
